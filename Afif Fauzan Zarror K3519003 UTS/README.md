@@ -2,4 +2,5 @@
 <h2>Afif Fauzan Zarror K3519003</h2>
 <h3> http://afiffz.unaux.com/ </h3>
 <p> Game Matematika penjumlahan sebelum pengunjung website mulai memainkan game ini, diharuskan login terlebih dahulu, lalu pengunjung website bisa bermain game matematika ini. Jika pengunjung menjawab soal dengan benar maka akan memperoleh skor 10 dan jika salah maka skor dikurangi 2. Pengunjung website memiliki 5 nyawa yang akan terus berkurang jika pengunjung salah dalam menjawab soal sampai nyawa 0 atau bisa dikatakan GAME OVER. setelah GAME OVER maka akan keluar tabel ranking skor dari para pengunjung yang ada. Jika pengunjung ingin bermain kembali maka pengunjung tinggal melakukan permainan kembali :) </p>
-![image](https://user-images.githubusercontent.com/71203020/117559895-58c6f300-b0b3-11eb-87bb-b5cc3cc3de91.png)
+![Screenshot 2021-05-09 104433](https://user-images.githubusercontent.com/71203020/117559945-a6dbf680-b0b3-11eb-8dfd-3fe66e7f51cf.jpg)
+
